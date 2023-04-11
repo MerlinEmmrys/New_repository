@@ -1,2 +1,2 @@
 # New_repository
-#Open and change--->>> main.py
+#Open and change--->>> main_generate.py
